@@ -1,0 +1,26 @@
+.image{
+    background-image: url(https://www.technocrazed.com/wp-content/uploads/2015/12/black-wallpaper-to-set-as-background-28.jpg);
+    background-size: cover;
+    height: 100vh;
+
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.content{
+    color: white;
+}
+.button{
+    background-color: orange;
+    height: 36px;
+    width: 100px;
+    color: white;
+    text-align: center;
+}
+.line{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+   
